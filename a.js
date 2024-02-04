@@ -8,4 +8,3 @@ if(disha  > salman) {
 }
 
 //inside a function
-function 
