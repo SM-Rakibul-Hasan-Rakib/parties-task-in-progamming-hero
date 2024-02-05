@@ -54,5 +54,5 @@ function totalFree(collegeFee, busFee, basaFee ){
   return totalAmount;
 }
 
-const total = totalFree(4,6j,1);
+const total = totalFree(4,6,1);
 console.log('par month totat amount fot money:', total);
